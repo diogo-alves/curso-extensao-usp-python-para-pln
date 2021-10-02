@@ -1,0 +1,1 @@
+[Link para a aula 2](https://www.youtube.com/watch?v=QIB5j6X0DHg)
