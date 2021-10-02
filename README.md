@@ -11,9 +11,9 @@ Esse curso é promovido pelo [Núcleo Interinstitucional de Linguística Computa
 O curso é ministrado pelos Profs. [Thiago A. S. Pardo](http://lattes.cnpq.br/7078737101024368), [Roney L. S. Santos](http://lattes.cnpq.br/5238590321324566) e [Rogério F. Sousa](http://lattes.cnpq.br/9346694618502913), com o apoio dos monitores [Diogo C. Emídio](http://lattes.cnpq.br/4556390162383175), [Lucas G. M. Miranda](http://lattes.cnpq.br/7954522088194811), [Marcio L. Inácio](http://lattes.cnpq.br/0820108701007420), [Gilberto Nunes Neto](http://lattes.cnpq.br/2812971877366050) e [Lucelene Lopes](http://lattes.cnpq.br/3718075891395088) e o suporte da [Comissão de Cultura e Extensão Universitária do ICMC](https://www.icmc.usp.br/cultura-e-extensao).
 
 # Sumário
-   * [Material aula 1 - Mesa redonda com especialistas em PLN]: ./Aula 1/README.md
-   * [Material Aula 2 - Introdução ao PLN e Google Colab](./Aula 2/README.md)
-   * [Material Aula 3 - Noções de python](./Aula 3/README.md)
-   * [Material Aula 4 - NLTK](./Aula 4/README.md)
-   * [Material Aula 5 - NLTK e spaCy](./Aula 5/README.md)
-   * [Notebooks com práticas e resoluções de exercícios](./Notebooks/README.md)
+   * [Material aula 1 - Mesa redonda com especialistas em PLN](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Aula%201)
+   * [Material Aula 2 - Introdução ao PLN e Google Colab](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Aula%202)
+   * [Material Aula 3 - Noções de python](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Aula%203)
+   * [Material Aula 4 - NLTK](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Aula%204)
+   * [Material Aula 5 - NLTK e spaCy](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Aula%205)
+   * [Notebooks com práticas e resoluções de exercícios](https://github.com/diogo-alves/curso-extensao-usp-python-para-pln/blob/main/Notebooks)
